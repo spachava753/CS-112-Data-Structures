@@ -136,19 +136,7 @@ public class PartialTreeList implements Iterable<PartialTree> {
     	else{
     		return pt;
     	}
-    	/*PartialTree ret;
-    		Iterator<PartialTree> iter=iterator();
-    		while(iter.hasNext()){
-    			PartialTree pt=iter.next();
-    			Vertex v2= vertex;
-    			while(v2.parent !=v2){//going up tree
-    				v2=v2.parent;
-    			}
-    			if(v2==v2.getRoot()){
-    				ret=
-    			}
-    		}*/
-    		//return ret;
+    	
      }
     
     /**
