@@ -23,7 +23,6 @@ public class MST {
 				v.neighbors=v.neighbors.next;
 			}
 			
-			//t.getArcs().merge(p);
 			ptlist.append(t);//add to list
 		}
 		return ptlist;
