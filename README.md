@@ -15,5 +15,7 @@ the Rutgers University class CS 112.
   #### Term.java
     Authors: RU NB-CS112
     Implements a term of a polynomial
-   
+  #### Polytest.java
+    Authors: RU NB-CS112
+    Contains the main method
    
